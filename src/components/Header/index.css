@@ -1,0 +1,13 @@
+.nav-el {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+}
+.rr{
+    background-color: transparent;
+    padding: 10px;
+    color: #ffffff;
+    border-radius: 5px;
+    border: 1px solid #ffffff;
+}
